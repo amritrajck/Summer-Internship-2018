@@ -1,4 +1,4 @@
-# Summer-Internship-2018
+# ManageIQ-Summer-Internship-2018
 
 ## Reuben Varghese:
 ### Updates until July 17th:
