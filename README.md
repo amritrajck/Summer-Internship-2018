@@ -15,8 +15,8 @@ ManageIq currently.
 ## Amritraj Singh:
 ### Updates until July 19th:
 
-* Configured ManageIQ ruuning in a Docker container on local Linux system.
+* Configured ManageIQ running in a Docker container on the local Linux system.
 * Deployed virtual machine on EC2 and successfully added and configured it as a provider in ManageIQ.
-* Tried adding a GCE provider as well, however, couldn't beacuse of an error.
-* Successfully installed Selenium over VNC to get my system configured for the testing environment. However, platform limitations have refrained me from deploying the MnageIQ container within the selenium server. So, I'd be swwitching to a more suitable platform (Fedora), to solve this particular issue.
+* Tried adding a GCE provider as well, however, couldn't because of an error.
+* Successfully installed Selenium over VNC to get my system configured for the testing environment. However, platform limitations have refrained me from deploying the ManageIQ container within the selenium server. So, I'd be switching to a more suitable platform (Fedora), to solve this particular issue.
 * Acquired a theoretical understanding of widgets, models and usage of Pytest framework for running integration tests on ManageIQ.
