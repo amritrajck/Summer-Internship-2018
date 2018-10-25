@@ -25,3 +25,7 @@ ManageIq currently.
 * Tried adding a GCE provider as well, however, couldn't because of an error.
 * Successfully installed Selenium over VNC to get my system configured for the testing environment. However, platform limitations have refrained me from deploying the ManageIQ container within the selenium server. So, I'd be switching to a more suitable platform (Fedora), to solve this particular issue.
 * Acquired a theoretical understanding of widgets, models and usage of Pytest framework for running integration tests on ManageIQ.
+
+## Update after Internship Completion
+* Collection conversion of Dashboard.
+* Collection conversion of Topology.
